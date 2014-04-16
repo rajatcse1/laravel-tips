@@ -1,7 +1,8 @@
 ##Problem:  
+Pass data `greetings` ans `name` from router to view
 
 ##Solution:  
-
+3 ways we can pass as follows:
 ```
 Route::get('/about', function()
 {
